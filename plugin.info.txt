@@ -1,0 +1,7 @@
+base   clearer
+author Zaher Dirkey
+email  zaherdirkey@yahoo.com
+date   2012-06-04
+name   Clearer
+desc   Add cleaer div class
+url    http://www.dokuwiki.org/plugin:clearer
