@@ -6,7 +6,8 @@
  * @license    GPL 2 (http://www.gnu.org/licenses/gpl.html)
  * @author     Zaher Dirkey <zaherdirkey@yahoo.com>
  * @similar to http://www.dokuwiki.org/plugin:clearfloat
- * @desc use \\\ at end of line to add clearer tag with break live
+ * @desc use \\\ at end of line to add clearer tag with break
+ * url: http://www.dokuwiki.org/plugin:clearer
  */
 
 /*todo
@@ -25,7 +26,7 @@ class syntax_plugin_clearer extends DokuWiki_Syntax_Plugin {
             'email'  => 'zaherdirkey@yahoo.com',
             'date'   => '2012-06-4',
             'name'   => 'Add clearer div class',
-            'desc'   => 'Add clearer div class using \\ chars before new line char.',
+            'desc'   => 'Add clearer div class using \\\ chars before new line char.',
             'url'    => 'http://dokuwiki.org/plugin:clearer',
         );
     }
