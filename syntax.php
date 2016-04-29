@@ -25,7 +25,7 @@ class syntax_plugin_clearer extends DokuWiki_Syntax_Plugin {
             'author' => 'Zaher Dirkey',
             'email'  => 'zaherdirkey@yahoo.com',
             'date'   => '2012-06-4',
-            'name'   => 'Add clearer div class',
+            'name'   => 'Clearer',
             'desc'   => 'Add clearer div class using \\\ chars before new line char.',
             'url'    => 'http://dokuwiki.org/plugin:clearer',
         );
