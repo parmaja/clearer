@@ -45,7 +45,7 @@ class syntax_plugin_clearer extends DokuWiki_Syntax_Plugin {
     function handle($match, $state, $pos, Doku_Handler $handler){
         return array($match, $state, $pos);
     }
-    function render($mode, &$renderer, $data) {
+    function render($format, Doku_Renderer $renderer, $data) {
             if ($mode == 'xhtml') {
          $renderer->doc .= '<div class="clearer" ></div>';
         return true;
